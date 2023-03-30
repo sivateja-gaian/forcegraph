@@ -1,0 +1,18 @@
+
+#data{
+  width: 800px;
+  height: 500px;
+  margin-left: 20%;
+  border: 2px solid grey;
+  background: lightskyblue;
+  border-radius: 5%;
+}
+body{
+  background-color: aquamarine;
+}
+#content{
+    margin-left: 20%;
+}
+#head{
+  margin-left: 20%;
+}
